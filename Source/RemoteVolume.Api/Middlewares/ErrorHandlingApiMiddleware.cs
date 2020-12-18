@@ -6,7 +6,7 @@ using System.Net;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Options;
-using Microsoft.Practices.EnterpriseLibrary.ExceptionHandling;
+//using Microsoft.Practices.EnterpriseLibrary.ExceptionHandling;
 using RemoteVolume.Common;
 
 // ReSharper disable once IdentifierTypo
@@ -18,7 +18,7 @@ namespace RemoteVolume.Api.Middlewares
 
         private readonly RequestDelegate _next;
 
-        private readonly ExceptionManager _exceptionManager;
+        //private readonly ExceptionManager _exceptionManager;
 
         #endregion Fields
 

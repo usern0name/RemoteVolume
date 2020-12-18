@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Business", "03.Business"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoteVolume.Business", "RemoteVolume.Business\RemoteVolume.Business.csproj", "{44EDCD67-3313-4055-86DB-44BCA61F7124}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.Presentation", "05.Presentation", "{C22B78F2-E711-43D0-B1C3-B30417D81D1D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.Presentation", "04.Presentation", "{C22B78F2-E711-43D0-B1C3-B30417D81D1D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoteVolume.Api", "RemoteVolume.Api\RemoteVolume.Api.csproj", "{3DD6BDC8-B11B-4FDE-A2E6-57159E7C8806}"
 EndProject
